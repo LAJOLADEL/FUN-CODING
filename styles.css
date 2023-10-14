@@ -6,14 +6,14 @@ body, h1, h2, p, ul {
 
 /* Apply a background color and set font styles */
 body {
-    background-color: #518a58;
+    background-color: #f2f2f2;
     font-family: Arial, sans-serif;
 }
 
 /* Header Styles */
 #header {
-    background-color: #be6b6b;
-    color: #9c7171;
+    background-color: #333;
+    color: #fff;
     text-align: center;
     padding: 20px;
 }
@@ -22,13 +22,19 @@ body {
     font-size: 2em;
 }
 
+#header nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 #header ul {
     list-style: none;
 }
 
 #header li {
-    display: inline;
-    margin: 0 10px;
+    margin: 0 20px;
+    font-size: 1.2em;
 }
 
 #header a {
@@ -38,20 +44,20 @@ body {
 
 /* Section Styles */
 div {
-    padding: 20px;
-    margin: 10px;
-    background-color: #576ad6;
+    background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
 }
 
 h2 {
     font-size: 1.5em;
-    color: #8d3751;
+    color: #333;
 }
 
 p {
     font-size: 1em;
-    color: #666666;
+    color: #666;
 }
 
 ul {
@@ -70,21 +76,27 @@ a:hover {
 
 /* Footer Styles */
 #footer {
-    background-color: #6e7e76;
-    color: #0e9adb;
+    background-color: #333;
+    color: #fff;
     text-align: center;
     padding: 20px;
 }
 
+/* Flexbox Layout */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 /* Media Query for Smaller Screens */
 @media (max-width: 768px) {
-    #header ul {
-        display: block;
-        text-align: center;
+    #header {
+        padding: 10px;
     }
 
     #header li {
-        display: block;
-        margin: 10px 0;
+        margin: 0 10px;
+        font-size: 1em;
     }
 }
