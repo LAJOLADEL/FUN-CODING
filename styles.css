@@ -12,8 +12,8 @@ body {
 
 /* Header Styles */
 #header {
-    background-color: #333;
-    color: #fff;
+    background-color: #be6b6b;
+    color: #9c7171;
     text-align: center;
     padding: 20px;
 }
@@ -40,13 +40,13 @@ body {
 div {
     padding: 20px;
     margin: 10px;
-    background-color: #a7be3d;
+    background-color: #576ad6;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
     font-size: 1.5em;
-    color: #333;
+    color: #8d3751;
 }
 
 p {
@@ -70,7 +70,7 @@ a:hover {
 
 /* Footer Styles */
 #footer {
-    background-color: #06ec79;
+    background-color: #6e7e76;
     color: #0e9adb;
     text-align: center;
     padding: 20px;
