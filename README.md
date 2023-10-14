@@ -9,15 +9,21 @@ Welcome to the Coding For Fun website! This platform is dedicated to helping you
 
 ***
 **Who is it for**
+***
+
 
 "I actually like writing out code, but watching tutorial after tutorial is so mind-numbing and tedious" If this is you? then this website is for you.
 
 **Motivation**
 ***
+
+
 To take the mind-numbness and stress out of coding thereby making it a fun thing to do by anyone without computing experience.
 
 **What you Need**
-*****
+***
+
+
 Before you dive into the world of coding for fun, make sure you have the following:
 
 A computer or laptop
@@ -30,6 +36,7 @@ A passion for learning and exploring!
 ***
 
 ##Screenshot
+***
 ![screenshotimg](/codeforfunsketch.jpeg)
 
 
