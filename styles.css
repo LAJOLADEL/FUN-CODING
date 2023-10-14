@@ -6,7 +6,7 @@ body, h1, h2, p, ul {
 
 /* Apply a background color and set font styles */
 body {
-    background-color: #f2f2f2;
+    background-color: #518a58;
     font-family: Arial, sans-serif;
 }
 
@@ -40,7 +40,7 @@ body {
 div {
     padding: 20px;
     margin: 10px;
-    background-color: #fff;
+    background-color: #a7be3d;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -51,7 +51,7 @@ h2 {
 
 p {
     font-size: 1em;
-    color: #666;
+    color: #666666;
 }
 
 ul {
