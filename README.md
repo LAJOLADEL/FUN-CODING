@@ -26,14 +26,14 @@ To take the mind-numbness and stress out of coding thereby making it a fun thing
 
 Before you dive into the world of coding for fun, make sure you have the following:
 
-A computer or laptop
-***
-An internet connection
-***
-A modern web browser
-***
-A passion for learning and exploring!
-***
+1. A computer or laptop
+
+2. An internet connection
+
+3. A modern web browser
+
+4. A passion for learning and exploring!
+
 
 ##Screenshot
 ***
