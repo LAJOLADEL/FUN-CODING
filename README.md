@@ -35,8 +35,10 @@ Before you dive into the world of coding for fun, make sure you have the followi
 4. A passion for learning and exploring!
 
 
-Screenshot
+**Screenshot**
 ***
+
+
 ![screenshotimg](/codeforfunsketch.jpeg)
 
 
